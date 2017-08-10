@@ -1,0 +1,14 @@
+List of image sources:
+2 http://pixdaus.com/tiger-cub-courtesy-public-domain-animal-cat-cub-feline-tiger/items/view/303413/
+4 https://www.elprecipicio.com/los-animales-mas-inteligentes-de-la-tierra/
+8 http://www.publicdomainpictures.net/view-image.php?image=33776&picture=bobcat-or-lynx
+16 http://www.stock-free.org/baby-animal-photos-page-3.html
+32 http://unitedoneworld.blogspot.ca/2014/11/nepal-animals-wildlife-pictures.html
+64 http://www.stock-free.org/baby-animal-photos-page-8.html
+128 http://www.stock-free.org/baby-animal-photos-page-5.html
+256 https://commons.wikimedia.org/wiki/File:Common_duiker_kenya.jpg
+512 https://en.wikipedia.org/wiki/File:White-tailed_deer.jpg
+1024 http://www.publicdomainpictures.net/view-image.php?image=46228&picture=lions-in-artis-15
+2048 http://karlshuker.blogspot.ca/2014/09/caterpillar-bears-bulldog-bears-and-god.html
+
+Note: From my understanding those are public domain images.
